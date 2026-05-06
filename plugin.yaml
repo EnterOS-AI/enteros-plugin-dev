@@ -1,0 +1,16 @@
+name: molecule-dev
+version: 1.0.0
+description: Molecule AI codebase conventions, past bugs, quality standards, and coordination workflows
+author: Molecule AI
+tags: [conventions, quality, coordination, codebase]
+
+runtimes:
+  - claude_code
+  - deepagents
+  - hermes
+
+rules:
+  - rules/codebase-conventions.md
+
+skills:
+  - review-loop
