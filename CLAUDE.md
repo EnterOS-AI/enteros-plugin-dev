@@ -57,7 +57,7 @@ See `rules/codebase-conventions.md` for the full ruleset. Key highlights:
 ### Setup
 
 ```bash
-git clone https://github.com/Molecule-AI/molecule-ai-plugin-molecule-dev.git
+git clone https://git.moleculesai.app/molecule-ai/molecule-ai-plugin-molecule-dev.git
 cd molecule-ai-plugin-molecule-dev
 
 # Install markdownlint CLI for pre-commit linting
